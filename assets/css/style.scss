@@ -1,16 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-.markdown-body {
-  font-family: 'Plus Jakarta Sans';
-  color: black;
-}
-
-[data-testid='sidebarColumn'] {
-  visibility: hidden;
-  width: 0;
-  margin: 0;
-  padding: 0;
-  z-index: 1;
-}
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
