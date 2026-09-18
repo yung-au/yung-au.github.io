@@ -6,7 +6,9 @@ Hello, please find below some of my work, collaboration, and teaching around:
 * As well as on making maps & thinking differently. This includes lessons from the many movements and community organising around the world; challenging the words, classifications, and broader epistemologies our societies are built on; and attempts at building alternative infrastructure for another possible world.
 
 Current position: 
+
 Biegun Warburg Junior Research Fellow in Geography, St Anne’s College, University of Oxford
+
 Board member of Surveillance in the Majority World Network 
 
 
@@ -33,7 +35,7 @@ Board member of Surveillance in the Majority World Network
 
 ### On making maps & thinking differently
 
-[Public Writing] Katta, S., Au, Y., and Neerukonda, M. (2022). Hazy data days: Delivery dispatches from Hyderabad. In R. Singh, R. L. Guzmán, and P. Davison (Eds.), Parables of AI in/from the majority world (pp. 137–155). Data & Society Research Institute. 
+[Public Writing] Katta, S., Au, Y., and Neerukonda, M. (2022). [Hazy data days: Delivery dispatches from Hyderabad.](https://datasociety.net/wp-content/uploads/2022/12/DSParablesAnthology_Dec2022Ch12.pdf) In R. Singh, R. L. Guzmán, and P. Davison (Eds.), Parables of AI in/from the majority world (pp. 137–155). Data & Society Research Institute. 
 
 [Public Writing] Au, Y. (2021). [Thinking critically about maps: Researching, resisting and re-imagining the world.](https://kit.exposingtheinvisible.org/en/critical-maps.html) Exposing the Invisible. Tactical Tech.
 
