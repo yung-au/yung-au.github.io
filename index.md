@@ -1,5 +1,3 @@
-# Yung Au
-
 Hello, please find below some of my work, collaboration, and teaching around:
 * Surveillance & mapping supply chains of policing/military commodities that intersect with tech
 * Colonialism & capitalism: including its entanglement in domains from tech to outer space 
