@@ -2,5 +2,5 @@ theme: minima
 plugins:
 - jekyll-remote-theme 
 
-title: Yung
-description: Works
+title: Select Works
+description: Written work in and around academia
