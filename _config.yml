@@ -1,9 +1,4 @@
-theme: minima
-plugins:
-- jekyll-remote-theme 
-minima:
-  skin: dark
+remote_theme: "jekyll/minima@1e8a445"
 
-  
 title: Select Works
 description: Written work in and around academia
