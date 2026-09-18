@@ -4,14 +4,13 @@ Hello, please find below some of my work, collaboration, and teaching around:
 * As well as on making maps & thinking differently. This includes lessons from the many movements and community organising around the world; challenging the words, classifications, and broader epistemologies our societies are built on; and attempts at building alternative infrastructure for another possible world.
 
 Current position: 
-
 * Biegun Warburg Junior Research Fellow in Geography, St Anne’s College, University of Oxford
 * Board member of Surveillance in the Majority World Network 
 
 
 ## Select writing
 
-### Surveillance & mapping supply chains of policing/military commodities
+### **Surveillance & mapping supply chains of policing/military commodities**
 
 [Paper] Au, Y. (2026). [Pre-Packaged Policing: Commodifying Bundled Surveillance & Lesson from Abolition. Surveillance & Society.](https://doi.org/10.24908/ss.v24i4.16644) Surveillance & Society, 24(4), 362-380.
 
@@ -19,7 +18,7 @@ Current position:
 
 [Public Writing] Au, Y. (2021). [Surveillance from the third millennium.](https://doi.org/10.24908/ss.v19i4.15121) Surveillance & Society, 19(4), 425–440. 
 
-### Colonialism & capitalism: from tech to outer space 
+### **Colonialism & capitalism: from tech to outer space**
 [Paper] Au, Y. (2026). [Attending to the many faces of coloniality: Setting the stakes on when ‘the digital’ matters for theories of empire.](https://doi.org/10.1177/29768640261463047) Dialogues on Digital Society, 2(2), 199-204. 
 
 [Paper] Au, Y. (2025). [Computers in our Cosmos: Intersections in Geographies of Care, Abolition Geographies, and Worker Movements.](https://doi.org/10.1111/tran.70042) Transactions of the Institute of British Geographers. 
@@ -30,7 +29,7 @@ Current position:
 
 [Paper] Au, Y. (2022). [Protest, pandemic, & platformisation in Hong Kong: Towards cities of alternatives.](https://doi.org/10.1016/j.diggeo.2022.100043) Digital Geography and Society, 3, Article 100043. _*Winner of the Top Student Paper, ICA 2022._
 
-### On making maps & thinking differently
+### **On making maps & thinking differently**
 
 [Public Writing] Katta, S., Au, Y., and Neerukonda, M. (2022). [Hazy data days: Delivery dispatches from Hyderabad.](https://datasociety.net/wp-content/uploads/2022/12/DSParablesAnthology_Dec2022Ch12.pdf) In R. Singh, R. L. Guzmán, and P. Davison (Eds.), Parables of AI in/from the majority world (pp. 137–155). Data & Society Research Institute. 
 
