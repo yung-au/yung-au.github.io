@@ -1,14 +1,18 @@
 # Yung Au
 
-This is catalogue of some of my work, collaborations, and teaching around surveillance and tech supply chains, colonialism and capitalism, activism and community organising, as well as making maps and alternative infrastructure for a different world.
+Hello, please find below some of my work, collaboration, and teaching around:
+* Surveillance & mapping supply chains of policing/military commodities that intersect with tech
+* Colonialism & capitalism: including how they are entangled in spaces from tech to outer space 
+* As well as on making maps & thinking differently. This includes lessons from the many movements and community organising around the world; challenging the words, classifications, and broader epistemologies our societies are built on; and attempts at building alternative infrastructure for another possible world.
 
-Current position: Biegun Warburg Junior Research Fellow in Geography, St Anne’s College, University of Oxford
+Current position: 
+Biegun Warburg Junior Research Fellow in Geography, St Anne’s College, University of Oxford
+Board member of Surveillance in the Majority World Network 
 
 
-## Select list of past writing
+## Select writing
 
-### On surveillance
-[Paper] Au, Y. (2026). [Attending to the many faces of coloniality: Setting the stakes on when ‘the digital’ matters for theories of empire.](https://doi.org/10.1177/29768640261463047) Dialogues on Digital Society, 2(2), 199-204. 
+### Surveillance & mapping supply chains of policing/military commodities that intersect with tech
 
 [Paper] Au, Y. (2026). [Pre-Packaged Policing: Commodifying Bundled Surveillance & Lesson from Abolition. Surveillance & Society.](https://doi.org/10.24908/ss.v24i4.16644))
 
@@ -16,8 +20,10 @@ Current position: Biegun Warburg Junior Research Fellow in Geography, St Anne’
 
 [Public Writing] Au, Y. (2021). Surveillance from the third millennium. Surveillance & Society, 19(4), 425–440. 
 
-### On colonialism & capitalism; from tech to outer space
-[Public Writing] Au, Y. (2021). Surveillance from the third millennium. Surveillance & Society, 19(4), 425–440. Au, Y. (2025). Computers in our Cosmos: Intersections in Geographies of Care, Abolition Geographies, and Worker Movements. Transactions of the Institute of British Geographers. 
+### Colonialism & capitalism: including how they are entangled in spaces from tech to outer space 
+[Paper] Au, Y. (2026). [Attending to the many faces of coloniality: Setting the stakes on when ‘the digital’ matters for theories of empire.](https://doi.org/10.1177/29768640261463047) Dialogues on Digital Society, 2(2), 199-204. 
+
+[Paper] Au, Y. (2025). Computers in our Cosmos: Intersections in Geographies of Care, Abolition Geographies, and Worker Movements. Transactions of the Institute of British Geographers. 
 
 [Book Chapter] Au, Y. (2021). Surveillance from the third millennium. Surveillance & Society, 19(4), 425–440. Au, Y. (2023). The sprint to plug in the moon. In C. Cath (Ed.), Eaten by the Internet (pp. 27–34). Meatspace Press.
 
